@@ -58,19 +58,19 @@
     "url": "https://sw-pages.eu",
     "icon": "https://icons.duckduckgo.com/ip3/sw-pages.eu.ico",
     "slug": "seo-web-pages",
-    "status": "down",
-    "uptime": "70.78%",
-    "uptimeDay": "70.78%",
-    "uptimeWeek": "70.78%",
-    "uptimeMonth": "70.78%",
-    "uptimeYear": "70.78%",
-    "time": 740,
-    "timeDay": 740,
-    "timeWeek": 740,
-    "timeMonth": 740,
-    "timeYear": 740,
+    "status": "up",
+    "uptime": "61.87%",
+    "uptimeDay": "61.87%",
+    "uptimeWeek": "61.87%",
+    "uptimeMonth": "61.87%",
+    "uptimeYear": "61.87%",
+    "time": 790,
+    "timeDay": 790,
+    "timeWeek": 790,
+    "timeMonth": 790,
+    "timeYear": 790,
     "dailyMinutesDown": {
-      "2023-02-26": 28
+      "2023-02-26": 42
     }
   }
 ]
