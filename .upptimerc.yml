@@ -9,8 +9,8 @@ sites:
     url: https://dixid.eu/ee
   - name: Liselena
     url: https://liselena.ee
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: SeoWeb Pages
+    url: https://sw-pages.eu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
