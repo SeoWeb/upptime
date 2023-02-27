@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1446,
-    "timeDay": 1491,
-    "timeWeek": 1446,
-    "timeMonth": 1446,
-    "timeYear": 1446,
+    "time": 1507,
+    "timeDay": 1562,
+    "timeWeek": 1507,
+    "timeMonth": 1507,
+    "timeYear": 1507,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2802,
-    "timeDay": 2678,
-    "timeWeek": 2802,
-    "timeMonth": 2802,
-    "timeYear": 2802,
+    "time": 2798,
+    "timeDay": 2740,
+    "timeWeek": 2798,
+    "timeMonth": 2798,
+    "timeYear": 2798,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5942,
-    "timeDay": 5609,
-    "timeWeek": 5942,
-    "timeMonth": 5942,
-    "timeYear": 5942,
+    "time": 5830,
+    "timeDay": 5790,
+    "timeWeek": 5830,
+    "timeMonth": 5830,
+    "timeYear": 5830,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sw-pages.eu.ico",
     "slug": "seo-web-pages",
     "status": "up",
-    "uptime": "61.87%",
-    "uptimeDay": "61.87%",
-    "uptimeWeek": "61.87%",
-    "uptimeMonth": "61.87%",
-    "uptimeYear": "61.87%",
-    "time": 790,
-    "timeDay": 790,
-    "timeWeek": 790,
-    "timeMonth": 790,
-    "timeYear": 790,
+    "uptime": "92.64%",
+    "uptimeDay": "92.64%",
+    "uptimeWeek": "92.64%",
+    "uptimeMonth": "92.64%",
+    "uptimeYear": "92.64%",
+    "time": 789,
+    "timeDay": 789,
+    "timeWeek": 789,
+    "timeMonth": 789,
+    "timeYear": 789,
     "dailyMinutesDown": {
-      "2023-02-26": 42
+      "2023-02-26": 28
     }
   }
 ]
