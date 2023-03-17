@@ -98,19 +98,19 @@
     "url": "https://saunik.ee",
     "icon": "https://icons.duckduckgo.com/ip3/saunik.ee.ico",
     "slug": "saunik",
-    "status": "down",
-    "uptime": "1.62%",
-    "uptimeDay": "1.62%",
-    "uptimeWeek": "1.62%",
-    "uptimeMonth": "1.62%",
-    "uptimeYear": "1.62%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.53%",
+    "uptimeDay": "0.53%",
+    "uptimeWeek": "0.53%",
+    "uptimeMonth": "0.53%",
+    "uptimeYear": "0.53%",
+    "time": 7230,
+    "timeDay": 7230,
+    "timeWeek": 7230,
+    "timeMonth": 7230,
+    "timeYear": 7230,
     "dailyMinutesDown": {
-      "2023-03-17": 0
+      "2023-03-17": 21
     }
   }
 ]
