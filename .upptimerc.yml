@@ -11,6 +11,10 @@ sites:
     url: https://liselena.ee
   - name: SeoWeb Pages
     url: https://sw-pages.eu
+  - name: Puitline
+    url: https://puitline.ee
+  - name: Saunik
+    url: https://saunik.ee
 
 status-website:
   theme: ocean
