@@ -15,8 +15,6 @@ sites:
     url: https://puitline.ee
   - name: Saunik
     url: https://saunik.ee
-  - name: Puitline
-    url: https://puitline.ee
   - name: Entro
     url: https://entro.ee
 
