@@ -40,9 +40,9 @@
     "url": "https://liselena.ee",
     "icon": "https://icons.duckduckgo.com/ip3/liselena.ee.ico",
     "slug": "liselena",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 5647,
     "timeMonth": 5489,
     "timeYear": 5627,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-30": 0
+    }
   },
   {
     "name": "SeoWeb Pages",
@@ -59,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sw-pages.eu.ico",
     "slug": "seo-web-pages",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "98.42%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "98.43%",
     "time": 730,
     "timeDay": 778,
     "timeWeek": 684,
