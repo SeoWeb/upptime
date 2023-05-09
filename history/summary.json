@@ -40,19 +40,19 @@
     "url": "https://liselena.ee",
     "icon": "https://icons.duckduckgo.com/ip3/liselena.ee.ico",
     "slug": "liselena",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5207,
-    "timeDay": 1543,
-    "timeWeek": 2177,
-    "timeMonth": 4124,
-    "timeYear": 5207,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 5181,
+    "timeDay": 1988,
+    "timeWeek": 2255,
+    "timeMonth": 4088,
+    "timeYear": 5181,
     "dailyMinutesDown": {
-      "2023-05-09": 0
+      "2023-05-09": 9
     }
   },
   {
