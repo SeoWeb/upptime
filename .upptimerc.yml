@@ -17,6 +17,8 @@ sites:
     url: https://saunik.ee
   - name: Entro
     url: https://entro.ee
+  - name: Unejutumaa
+    url: https://unejutumaa.ee
 
 status-website:
   theme: ocean
