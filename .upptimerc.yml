@@ -19,6 +19,8 @@ sites:
     url: https://entro.ee
   - name: Unejutumaa
     url: https://unejutumaa.ee
+  - name: Findly
+    url: https://findly.ee
 
 status-website:
   theme: ocean
