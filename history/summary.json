@@ -22,10 +22,10 @@
     "url": "https://dixid.eu/ee",
     "icon": "https://icons.duckduckgo.com/ip3/dixid.eu.ico",
     "slug": "dixid",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2500,
@@ -33,17 +33,19 @@
     "timeWeek": 2399,
     "timeMonth": 2377,
     "timeYear": 2500,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 1
+    }
   },
   {
     "name": "Liselena",
     "url": "https://liselena.ee",
     "icon": "https://icons.duckduckgo.com/ip3/liselena.ee.ico",
     "slug": "liselena",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4577,
@@ -51,7 +53,9 @@
     "timeWeek": 2612,
     "timeMonth": 2498,
     "timeYear": 4577,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 1
+    }
   },
   {
     "name": "SeoWeb Pages",
@@ -99,9 +103,9 @@
     "url": "https://saunik.ee",
     "icon": "https://icons.duckduckgo.com/ip3/saunik.ee.ico",
     "slug": "saunik",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.95%",
@@ -111,6 +115,7 @@
     "timeMonth": 1221,
     "timeYear": 864,
     "dailyMinutesDown": {
+      "2023-06-01": 0,
       "2023-04-11": 648,
       "2023-04-10": 450,
       "2023-03-27": 31,
