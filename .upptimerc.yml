@@ -21,6 +21,8 @@ sites:
     url: https://unejutumaa.ee
   - name: Findly
     url: https://findly.ee
+  - name: Momlife Store
+    url: https://momlife-store.com
 
 status-website:
   theme: ocean
