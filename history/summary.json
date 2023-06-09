@@ -42,18 +42,16 @@
     "slug": "liselena",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4359,
     "timeDay": 2239,
     "timeWeek": 2554,
     "timeMonth": 2445,
     "timeYear": 4359,
-    "dailyMinutesDown": {
-      "2023-06-08": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SeoWeb Pages",
