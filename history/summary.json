@@ -58,18 +58,19 @@
     "url": "https://sw-pages.eu",
     "icon": "https://icons.duckduckgo.com/ip3/sw-pages.eu.ico",
     "slug": "seo-web-pages",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 1234,
     "timeDay": 288,
-    "timeWeek": 1317,
+    "timeWeek": 413,
     "timeMonth": 594,
     "timeYear": 1234,
     "dailyMinutesDown": {
+      "2023-08-11": 2,
       "2023-06-05": 285,
       "2023-05-08": 17,
       "2023-02-28": 499,
@@ -144,10 +145,10 @@
     "url": "https://unejutumaa.ee",
     "icon": "https://icons.duckduckgo.com/ip3/unejutumaa.ee.ico",
     "slug": "unejutumaa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 328,
@@ -156,6 +157,7 @@
     "timeMonth": 312,
     "timeYear": 328,
     "dailyMinutesDown": {
+      "2023-08-11": 1,
       "2023-08-07": 26,
       "2023-06-09": 21
     }
@@ -165,10 +167,10 @@
     "url": "https://findly.ee",
     "icon": "https://icons.duckduckgo.com/ip3/findly.ee.ico",
     "slug": "findly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 517,
@@ -176,7 +178,9 @@
     "timeWeek": 445,
     "timeMonth": 482,
     "timeYear": 517,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-11": 1
+    }
   },
   {
     "name": "Momlife Store",
