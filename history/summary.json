@@ -60,9 +60,9 @@
     "slug": "seo-web-pages",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 1222,
     "timeDay": 367,
@@ -70,7 +70,6 @@
     "timeMonth": 584,
     "timeYear": 1222,
     "dailyMinutesDown": {
-      "2023-08-12": 6,
       "2023-06-05": 285,
       "2023-05-08": 17,
       "2023-02-28": 499,
@@ -147,9 +146,9 @@
     "slug": "unejutumaa",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 328,
     "timeDay": 346,
@@ -157,7 +156,6 @@
     "timeMonth": 314,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2023-08-12": 5,
       "2023-08-07": 26,
       "2023-06-09": 21
     }
@@ -167,11 +165,11 @@
     "url": "https://findly.ee",
     "icon": "https://icons.duckduckgo.com/ip3/findly.ee.ico",
     "slug": "findly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 511,
     "timeDay": 337,
@@ -179,7 +177,7 @@
     "timeMonth": 472,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2023-08-12": 4
+      "2023-08-12": 1
     }
   },
   {
@@ -189,18 +187,16 @@
     "slug": "momlife-store",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 358,
     "timeDay": 256,
     "timeWeek": 227,
     "timeMonth": 223,
     "timeYear": 358,
-    "dailyMinutesDown": {
-      "2023-08-12": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Telli tünn",
