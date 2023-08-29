@@ -203,18 +203,20 @@
     "url": "https://www.xn--tellitnn-c6a.ee",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--tellitnn-c6a.ee.ico",
     "slug": "telli-tuenn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1602,
-    "timeDay": 1151,
-    "timeWeek": 1389,
-    "timeMonth": 1602,
-    "timeYear": 1602,
-    "dailyMinutesDown": {}
+    "time": 1589,
+    "timeDay": 1240,
+    "timeWeek": 1382,
+    "timeMonth": 1589,
+    "timeYear": 1589,
+    "dailyMinutesDown": {
+      "2023-08-29": 0
+    }
   },
   {
     "name": "AI Toolas & News",
