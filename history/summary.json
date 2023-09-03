@@ -221,9 +221,9 @@
     "url": "https://ai-tools-and-news.com",
     "icon": "https://icons.duckduckgo.com/ip3/ai-tools-and-news.com.ico",
     "slug": "ai-toolas-and-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -232,6 +232,8 @@
     "timeWeek": 1515,
     "timeMonth": 1547,
     "timeYear": 1547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-03": 0
+    }
   }
 ]
