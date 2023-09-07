@@ -22,10 +22,10 @@
     "url": "https://dixid.eu/ee",
     "icon": "https://icons.duckduckgo.com/ip3/dixid.eu.ico",
     "slug": "dixid",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2495,
@@ -33,17 +33,19 @@
     "timeWeek": 2762,
     "timeMonth": 2657,
     "timeYear": 2495,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-07": 1
+    }
   },
   {
     "name": "Liselena",
     "url": "https://liselena.ee",
     "icon": "https://icons.duckduckgo.com/ip3/liselena.ee.ico",
     "slug": "liselena",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3564,
@@ -51,7 +53,9 @@
     "timeWeek": 2417,
     "timeMonth": 2465,
     "timeYear": 3564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-07": 1
+    }
   },
   {
     "name": "SeoWeb Pages",
@@ -102,9 +106,9 @@
     "url": "https://saunik.ee",
     "icon": "https://icons.duckduckgo.com/ip3/saunik.ee.ico",
     "slug": "saunik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
@@ -114,6 +118,7 @@
     "timeMonth": 1223,
     "timeYear": 1017,
     "dailyMinutesDown": {
+      "2023-09-07": 0,
       "2023-04-11": 648,
       "2023-04-10": 450,
       "2023-03-27": 31,
@@ -222,11 +227,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ai-tools-and-news.com.ico",
     "slug": "ai-toolas-and-news",
     "status": "up",
-    "uptime": "94.61%",
+    "uptime": "94.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.80%",
-    "uptimeMonth": "94.61%",
-    "uptimeYear": "94.61%",
+    "uptimeMonth": "94.64%",
+    "uptimeYear": "94.64%",
     "time": 1521,
     "timeDay": 1622,
     "timeWeek": 1481,
