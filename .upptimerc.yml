@@ -25,8 +25,8 @@ sites:
     url: https://momlife-store.com
   - name: Telli tünn
     url: https://www.xn--tellitnn-c6a.ee
-  - name: AI Toolas & News
-    url: https://ai-tools-and-news.com
+  #- name: AI Toolas & News
+   # url: https://ai-tools-and-news.com
 
 status-website:
   theme: ocean
