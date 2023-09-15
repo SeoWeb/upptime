@@ -205,7 +205,7 @@
     "slug": "telli-tuenn",
     "status": "up",
     "uptime": "98.74%",
-    "uptimeDay": "97.97%",
+    "uptimeDay": "98.81%",
     "uptimeWeek": "93.59%",
     "uptimeMonth": "98.52%",
     "uptimeYear": "98.74%",
@@ -224,19 +224,19 @@
     "url": "https://medicovet.eu",
     "icon": "https://icons.duckduckgo.com/ip3/medicovet.eu.ico",
     "slug": "medico-vet",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 9381,
-    "timeDay": 9381,
-    "timeWeek": 9381,
-    "timeMonth": 9381,
-    "timeYear": 9381,
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
+    "time": 9878,
+    "timeDay": 9878,
+    "timeWeek": 9878,
+    "timeMonth": 9878,
+    "timeYear": 9878,
     "dailyMinutesDown": {
-      "2023-09-15": 0
+      "2023-09-15": 12
     }
   }
 ]
