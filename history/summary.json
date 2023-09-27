@@ -22,10 +22,10 @@
     "url": "https://dixid.eu/ee",
     "icon": "https://icons.duckduckgo.com/ip3/dixid.eu.ico",
     "slug": "dixid",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2528,
@@ -33,16 +33,18 @@
     "timeWeek": 2921,
     "timeMonth": 2793,
     "timeYear": 2528,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-27": 1
+    }
   },
   {
     "name": "Liselena",
     "url": "https://liselena.ee",
     "icon": "https://icons.duckduckgo.com/ip3/liselena.ee.ico",
     "slug": "liselena",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 2516,
     "timeMonth": 2359,
     "timeYear": 3451,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-27": 0
+    }
   },
   {
     "name": "SeoWeb Pages",
