@@ -4,9 +4,9 @@
     "url": "https://seoweb.ee",
     "icon": "https://icons.duckduckgo.com/ip3/seoweb.ee.ico",
     "slug": "seo-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1255,
     "timeMonth": 1274,
     "timeYear": 1435,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-06": 0
+    }
   },
   {
     "name": "SeoWeb Pages",
@@ -214,11 +216,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ai-tools-and-news.com.ico",
     "slug": "ai-toolas-and-news",
     "status": "up",
-    "uptime": "86.18%",
+    "uptime": "86.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.18%",
+    "uptimeYear": "86.25%",
     "time": 698,
     "timeDay": 189,
     "timeWeek": 188,
