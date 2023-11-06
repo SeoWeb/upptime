@@ -4,19 +4,19 @@
     "url": "https://seoweb.ee",
     "icon": "https://icons.duckduckgo.com/ip3/seoweb.ee.ico",
     "slug": "seo-web",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1435,
-    "timeDay": 1255,
-    "timeWeek": 1255,
+    "time": 1434,
+    "timeDay": 1267,
+    "timeWeek": 1258,
     "timeMonth": 1274,
-    "timeYear": 1435,
+    "timeYear": 1434,
     "dailyMinutesDown": {
-      "2023-11-06": 0
+      "2023-11-06": 7
     }
   },
   {
