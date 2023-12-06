@@ -137,19 +137,19 @@
     "url": "https://findly.ee",
     "icon": "https://icons.duckduckgo.com/ip3/findly.ee.ico",
     "slug": "findly",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 426,
-    "timeDay": 414,
-    "timeWeek": 265,
-    "timeMonth": 307,
-    "timeYear": 426,
+    "time": 463,
+    "timeDay": 3042,
+    "timeWeek": 1157,
+    "timeMonth": 557,
+    "timeYear": 463,
     "dailyMinutesDown": {
-      "2023-12-06": 0
+      "2023-12-06": 7
     }
   },
   {
