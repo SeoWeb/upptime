@@ -1,7 +1,7 @@
 url: https://medicovet.eu
-status: up
-code: 200
-responseTime: 2696
-lastUpdated: 2024-01-24T08:50:58.322Z
+status: down
+code: 429
+responseTime: 1651
+lastUpdated: 2024-01-24T09:30:23.384Z
 startTime: 2023-09-14T11:03:37.447Z
 generator: Upptime <https://github.com/upptime/upptime>
