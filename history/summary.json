@@ -215,17 +215,17 @@
     "url": "https://medicovet.eu",
     "icon": "https://icons.duckduckgo.com/ip3/medicovet.eu.ico",
     "slug": "medico-vet",
-    "status": "up",
-    "uptime": "98.54%",
-    "uptimeDay": "79.67%",
-    "uptimeWeek": "89.89%",
+    "status": "down",
+    "uptime": "98.55%",
+    "uptimeDay": "79.66%",
+    "uptimeWeek": "89.88%",
     "uptimeMonth": "93.17%",
-    "uptimeYear": "98.54%",
-    "time": 2356,
-    "timeDay": 3561,
-    "timeWeek": 2989,
-    "timeMonth": 2705,
-    "timeYear": 2356,
+    "uptimeYear": "98.55%",
+    "time": 2355,
+    "timeDay": 3518,
+    "timeWeek": 2983,
+    "timeMonth": 2703,
+    "timeYear": 2355,
     "dailyMinutesDown": {
       "2024-02-05": 293,
       "2024-02-04": 17,
@@ -252,8 +252,7 @@
       "2024-01-10": 30,
       "2024-01-09": 56,
       "2024-01-08": 47,
-      "2024-01-04": 25,
-      "2023-12-28": 17
+      "2024-01-04": 25
     }
   },
   {
