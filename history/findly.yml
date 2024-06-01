@@ -1,7 +1,7 @@
 url: https://findly.ee
-status: up
-code: 200
-responseTime: 814
-lastUpdated: 2024-05-31T23:13:37.136Z
+status: down
+code: 401
+responseTime: 4822
+lastUpdated: 2024-06-01T07:11:26.295Z
 startTime: 2023-05-18T11:33:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
