@@ -19,16 +19,16 @@ sites:
 #    url: https://entro.ee
   - name: Unejutumaa
     url: https://unejutumaa.ee
-  - name: Findly
-    url: https://findly.ee
+#  - name: Findly
+#    url: https://findly.ee
 #  - name: Momlife Store
 #    url: https://momlife-store.com
   - name: Telli tünn
     url: https://www.xn--tellitnn-c6a.ee
 #  - name: MedicoVet
 #    url: https://medicovet.eu
-  - name: AI Toolas & News
-    url: https://ai-tools-and-news.com
+#  - name: AI Toolas & News
+#    url: https://ai-tools-and-news.com
 
 status-website:
   theme: ocean
