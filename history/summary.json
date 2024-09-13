@@ -24,17 +24,17 @@
     "slug": "unejutumaa",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "97.40%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "99.74%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "99.75%",
     "time": 1383,
     "timeDay": 6729,
     "timeWeek": 5226,
     "timeMonth": 3777,
     "timeYear": 1520,
     "dailyMinutesDown": {
-      "2024-09-12": 37,
+      "2024-09-12": 28,
       "2024-09-11": 18,
       "2024-09-10": 17,
       "2024-09-08": 16,
@@ -92,7 +92,7 @@
     "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.06%",
+    "uptimeMonth": "97.33%",
     "uptimeYear": "99.41%",
     "time": 1392,
     "timeDay": 1529,
@@ -103,8 +103,7 @@
       "2024-08-13": 1243,
       "2024-08-12": 145,
       "2023-12-05": 724,
-      "2023-10-05": 333,
-      "2023-09-14": 545
+      "2023-10-05": 333
     }
   }
 ]
