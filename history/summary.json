@@ -22,17 +22,17 @@
     "url": "https://unejutumaa.ee",
     "icon": "https://icons.duckduckgo.com/ip3/unejutumaa.ee.ico",
     "slug": "unejutumaa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "98.09%",
+    "uptimeDay": "98.08%",
     "uptimeWeek": "99.39%",
-    "uptimeMonth": "98.32%",
+    "uptimeMonth": "98.31%",
     "uptimeYear": "99.58%",
     "time": 2237,
-    "timeDay": 3826,
-    "timeWeek": 4199,
-    "timeMonth": 4396,
-    "timeYear": 2440,
+    "timeDay": 3564,
+    "timeWeek": 4118,
+    "timeMonth": 4380,
+    "timeYear": 2439,
     "dailyMinutesDown": {
       "2024-11-05": 28,
       "2024-10-31": 15,
@@ -98,8 +98,7 @@
       "2024-07-08": 15,
       "2024-07-03": 21,
       "2024-06-29": 35,
-      "2024-06-28": 16,
-      "2024-06-27": 16
+      "2024-06-28": 16
     }
   },
   {
