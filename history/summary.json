@@ -6,17 +6,17 @@
     "slug": "puitline",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 1170,
     "timeDay": 1124,
     "timeWeek": 1256,
     "timeMonth": 1130,
     "timeYear": 1114,
     "dailyMinutesDown": {
-      "2024-12-03": 0
+      "2024-12-03": 33
     }
   },
   {
@@ -25,10 +25,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--tellitnn-c6a.ee.ico",
     "slug": "telli-tuenn",
     "status": "down",
-    "uptime": "98.74%",
-    "uptimeDay": "61.02%",
-    "uptimeWeek": "94.43%",
-    "uptimeMonth": "98.72%",
+    "uptime": "98.73%",
+    "uptimeDay": "58.76%",
+    "uptimeWeek": "94.11%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "98.52%",
     "time": 1379,
     "timeDay": 1006,
@@ -36,7 +36,7 @@
     "timeMonth": 1359,
     "timeYear": 1359,
     "dailyMinutesDown": {
-      "2024-12-03": 51,
+      "2024-12-03": 83,
       "2024-12-02": 511,
       "2024-09-22": 887,
       "2024-09-21": 1440,
