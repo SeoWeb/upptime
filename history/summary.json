@@ -4,25 +4,27 @@
     "url": "https://puitline.ee",
     "icon": "https://icons.duckduckgo.com/ip3/puitline.ee.ico",
     "slug": "puitline",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1146,
+    "time": 1145,
     "timeDay": 1868,
     "timeWeek": 1294,
     "timeMonth": 1144,
     "timeYear": 1140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-27": 1
+    }
   },
   {
     "name": "Telli tünn",
     "url": "https://www.xn--tellitnn-c6a.ee",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--tellitnn-c6a.ee.ico",
     "slug": "telli-tuenn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 1424,
     "timeYear": 1416,
     "dailyMinutesDown": {
+      "2025-06-27": 0,
       "2025-05-29": 279,
       "2025-05-28": 45,
       "2025-03-17": 251,
