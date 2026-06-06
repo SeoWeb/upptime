@@ -4,16 +4,16 @@
     "url": "https://puitline.ee",
     "icon": "https://icons.duckduckgo.com/ip3/puitline.ee.ico",
     "slug": "puitline",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "95.55%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "99.27%",
-    "time": 1239,
-    "timeDay": 1852,
-    "timeWeek": 1106,
-    "timeMonth": 1158,
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "95.03%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "99.26%",
+    "time": 1240,
+    "timeDay": 1569,
+    "timeWeek": 1121,
+    "timeMonth": 1161,
     "timeYear": 1232,
     "dailyMinutesDown": {
       "2025-06-27": 29,
@@ -56,7 +56,7 @@
       "2026-05-30": 104,
       "2026-05-31": 315,
       "2026-06-04": 85,
-      "2026-06-06": 5
+      "2026-06-06": 64
     }
   },
   {
@@ -64,17 +64,17 @@
     "url": "https://www.xn--tellitnn-c6a.ee",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--tellitnn-c6a.ee.ico",
     "slug": "telli-tuenn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "95.83%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "99.13%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "95.27%",
+    "uptimeMonth": "97.48%",
+    "uptimeYear": "99.12%",
     "time": 1504,
-    "timeDay": 2242,
-    "timeWeek": 1395,
-    "timeMonth": 1282,
-    "timeYear": 1488,
+    "timeDay": 1930,
+    "timeWeek": 1414,
+    "timeMonth": 1290,
+    "timeYear": 1489,
     "dailyMinutesDown": {
       "2025-06-27": 28,
       "2026-01-21": 36,
@@ -114,7 +114,7 @@
       "2026-05-30": 94,
       "2026-05-31": 302,
       "2026-06-04": 81,
-      "2026-06-06": 0
+      "2026-06-06": 59
     }
   }
 ]
