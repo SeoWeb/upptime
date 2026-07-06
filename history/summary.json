@@ -68,16 +68,16 @@
     "url": "https://www.xn--tellitnn-c6a.ee",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--tellitnn-c6a.ee.ico",
     "slug": "telli-tuenn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.42%",
     "uptimeYear": "98.76%",
     "time": 1491,
-    "timeDay": 871,
-    "timeWeek": 1280,
-    "timeMonth": 1370,
+    "timeDay": 1158,
+    "timeWeek": 1301,
+    "timeMonth": 1372,
     "timeYear": 1478,
     "dailyMinutesDown": {
       "2026-01-21": 36,
@@ -122,7 +122,8 @@
       "2026-06-09": 176,
       "2026-06-10": 890,
       "2026-06-12": 172,
-      "2026-06-18": 397
+      "2026-06-18": 397,
+      "2026-07-06": 0
     }
   }
 ]
